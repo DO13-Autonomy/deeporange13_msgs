@@ -12,6 +12,7 @@ add_message_files(DIRECTORY msg FILES
   RosState.msg
   Vector2.msg
   TrackVelocity.msg
+  TorqueValues.msg
   RosHealthStatus.msg
   RosHealth.msg
 
