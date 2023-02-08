@@ -2,3 +2,4 @@
 Header header
 float64 measuredVx
 float64 measuredWz
+float64 timediff
