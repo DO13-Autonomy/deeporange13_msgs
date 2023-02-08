@@ -15,6 +15,7 @@ add_message_files(DIRECTORY msg FILES
   TorqueValues.msg
   RosHealthStatus.msg
   RosHealth.msg
+  MeasuredVelocity.msg
 )
 
 generate_messages(DEPENDENCIES
